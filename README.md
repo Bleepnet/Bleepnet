@@ -2,7 +2,7 @@
 this is where it all started...<br>
 ![alt text](unknown.png)
 
-#6b6t v3 (Project DownSyndrome)
+#6b6t v3 (Project DownSyndrome)<br>
 ![alt text](1.png)<br>
 ![alt text](2.png)<br>
 ![alt text](3.png)<br>
